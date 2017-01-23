@@ -1,5 +1,6 @@
 dwm
 *.o
 *.patch
-config.def.h.orig
+*.orig
+*.rej
 config.h
