@@ -1,3 +1,5 @@
 dwm
 *.o
 *.patch
+config.def.h.orig
+config.h
