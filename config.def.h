@@ -31,7 +31,7 @@ static const Rule rules[] = {
 	 */
 	/* class       instance    title       tags mask     isfloating   monitor */
 	{ "Gimp",      NULL,       NULL,       0,            1,           -1 },
-	{ "Keepassx2", NULL,       NULL,       0,            1,           -1 },
+	{ "keepassxc", NULL,       NULL,       0,            1,           -1 },
 	{ "mpv",       NULL,       NULL,       0,            1,           -1 },
 };
 
