@@ -1,6 +1,6 @@
 changes I made:
 
-* changed st to urxvt
+* changed st to alacritty
 * gapless grid patch
 * pertag patch
 * systray patch
