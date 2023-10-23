@@ -36,6 +36,7 @@ static const Rule rules[] = {
 	{ "Klavaro",      NULL,       NULL,       0,            1,           -1 },
 	{ "mpv",          NULL,       NULL,       0,            1,           -1 },
 	{ "Pavucontrol",  NULL,       NULL,       0,            1,           -1 },
+	{ "steam",        NULL,       NULL,       0,            1,           -1 },
 };
 
 /* layout(s) */
