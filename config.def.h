@@ -30,13 +30,14 @@ static const Rule rules[] = {
 	 *	WM_NAME(STRING) = title
 	 */
 	/* class          instance    title       tags mask     isfloating   monitor */
-	{ "Anki",         NULL,       NULL,       0,            1,           -1 },
-	{ "Gimp",         NULL,       NULL,       0,            1,           -1 },
-	{ "KeePassXC",    NULL,       NULL,       0,            1,           -1 },
-	{ "Klavaro",      NULL,       NULL,       0,            1,           -1 },
-	{ "mpv",          NULL,       NULL,       0,            1,           -1 },
-	{ "Pavucontrol",  NULL,       NULL,       0,            1,           -1 },
-	{ "steam",        NULL,       NULL,       0,            1,           -1 },
+	{ "Anki",            NULL,       NULL,       0,            1,           -1 },
+	{ "Blueman-manager", NULL,       NULL,       0,            1,           -1 },
+	{ "Gimp",            NULL,       NULL,       0,            1,           -1 },
+	{ "KeePassXC",       NULL,       NULL,       0,            1,           -1 },
+	{ "Klavaro",         NULL,       NULL,       0,            1,           -1 },
+	{ "mpv",             NULL,       NULL,       0,            1,           -1 },
+	{ "Pavucontrol",     NULL,       NULL,       0,            1,           -1 },
+	{ "steam",           NULL,       NULL,       0,            1,           -1 },
 };
 
 /* layout(s) */
